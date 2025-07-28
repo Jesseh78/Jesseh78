@@ -1,16 +1,37 @@
-## Hi there 👋
+# Olá! Eu sou o José Ulisses 👨‍💻
 
-<!--
-**Jesseh78/Jesseh78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+🔐 Certificado pela IBSEC em Cibersegurança  
+💻 Desenvolvedor focado em Python, Go e APIs REST  
+📍 Poá - SP
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projetos em destaque
+
+🔹 **[REST-APIs-PythonEFlask](https://github.com/Jesseh78/REST-APIs-PythonEFlask)**  
+API simples em Flask com SQLite e rotas RESTful.
+
+🔹 **[go-basic-microservice](https://github.com/Jesseh78/go-basic-microservice)**  
+Pequeno serviço REST em Go para estudo de microserviços.
+
+🔹 **[DesafioDIO](https://github.com/Jesseh78/DesafioDIO)**  
+Resoluções de desafios em Python da Digital Innovation One.
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+- Linguagens: **Python**, **Go**, HTML, CSS, JavaScript (básico)
+- Ferramentas: Git, GitHub, VS Code, Postman, SQLite
+- Cibersegurança: TCP/IP, LGPD, ISO 27001, Análise de vulnerabilidades
+- Estudando: Docker, FastAPI, Clean Architecture
+
+---
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/josé-ulisses-5385812bb)  
+📧 joseulises59@gmail.com  
+🌐 [Meu GitHub](https://github.com/Jesseh78)
+

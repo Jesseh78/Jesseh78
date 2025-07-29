@@ -15,7 +15,7 @@ API simples em Flask com SQLite e rotas RESTful.
 🔹 **[go-basic-microservice](https://github.com/Jesseh78/go-basic-microservice)**  
 Pequeno serviço REST em Go para estudo de microserviços.
 
-🔹 **[DesafioDIO](https://github.com/Jesseh78/DesafioDIO)**  
+🔹 **[DesafioDIO](https://github.com/Jesseh78/Desafio-DIO)**  
 Resoluções de desafios em Python da Digital Innovation One.
 
 ---

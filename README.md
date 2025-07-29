@@ -1,6 +1,6 @@
 # Olá! Eu sou o José Ulisses 👨‍💻
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+🎓 Estudante de Análise e Desenvolvimento de Sistemas - UMC 
 🔐 Certificado pela IBSEC em Cibersegurança  
 💻 Desenvolvedor focado em Python, Go e APIs REST  
 📍 Poá - SP

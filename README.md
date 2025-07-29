@@ -12,6 +12,9 @@
 🔹 **[REST-APIs-PythonEFlask](https://github.com/Jesseh78/REST-APIs-PythonEFlask)**  
 API simples em Flask com SQLite e rotas RESTful.
 
+🔹 **[Basic-CLI-Python](https://github.com/Jesseh78/Organizador_cli)**  
+CLI organizador de subpastas com as extensões .pdf, .txt etc.
+
 🔹 **[go-basic-microservice](https://github.com/Jesseh78/go-basic-microservice)**  
 Pequeno serviço REST em Go para estudo de microserviços.
 

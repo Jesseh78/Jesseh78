@@ -1,82 +1,113 @@
-# 👋 Olá, eu sou o José Ulisses  
+# José Ulisses — Java Backend Developer (Junior)
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas** (UMC)  
-🔐 Certificação em **Cibersegurança - IBSEC**  
-💻 Foco em **Python, Java e APIs REST**  
-🌍 Poá – SP  
-
-Sou apaixonado por **desenvolvimento backend e cibersegurança**. Atualmente, construo projetos práticos em Python e Java, explorando desde **APIs RESTful** até **aplicações de console**. Busco aplicar **boas práticas de desenvolvimento** e aprender constantemente.
+Java backend developer em formação, com foco em **Spring Boot**, **APIs REST**, **autenticação/autorização**, **segurança**, **organização de código** e **boas práticas de engenharia de software**.
 
 ---
 
-## 🚀 Projetos em Destaque
+## Stack Principal
 
-### 🔹 Python
-- **[REST-APIs-PythonEFlask](https://github.com/Jesseh78/REST-APIs-PythonEFlask)**  
-API RESTful em **Flask** com **SQLite**, implementando autenticação e operações CRUD.
+**Backend**
+- Java 17+
+- Spring Boot 3
+- Spring Security
+- JWT (Authentication / Authorization)
+- REST APIs
+- Maven
 
-- **[Basic-CLI-Python](https://github.com/Jesseh78/Organizador_cli)**  
-Ferramenta de linha de comando para **organizar arquivos automaticamente** por extensão.
+**Banco de Dados**
+- H2 (dev/test)
+- PostgreSQL (conceitos e integração)
 
-- **[DesafioDIO](https://github.com/Jesseh78/Desafio-DIO)**  
-Coleção de **desafios de lógica e algoritmos em Python**, resolvidos durante bootcamps da DIO.
+**Ferramentas**
+- Git / GitHub
+- Postman
+- Docker (conceitos)
+- Linux (ambiente de desenvolvimento)
 
-- **[BootCampPythonSantander](https://github.com/Jesseh78/BootCampPythonSantander)** e  
-**[trilha-python-dio](https://github.com/Jesseh78/trilha-python-dio)**  
-Exercícios e desafios práticos em **Python**.
-
----
-
-### 🔹 Java
-- **[ProjetosJava](https://github.com/Jesseh78/ProjetosJava)**  
-Exercícios e aplicações em **Java**, com foco em lógica, POO e boas práticas.
-
-- **[DesafioDIO-Java](https://github.com/Jesseh78/Desafio-DIO-Java)**  
-Resoluções de **desafios de programação em Java** da Digital Innovation One.
-
----
-
-### 🔹 Web & Frontend
-- **[site-TDAH](https://github.com/Jesseh78/site-TDAH)**  
-Projeto de site em **HTML/CSS** desenvolvido para o **UMC Summit** de Pesquisa, Inovação e Extensão.
-
-- **[ProjetoWebSiteBasico](https://github.com/Jesseh78/ProjetoWebSiteBasico)**  
-Estrutura de site básico em HTML para aprendizado de front-end.
+**Outros**
+- Python (scripts, CLI)
+- HTML / CSS / JavaScript (fundamentos)
+- Fundamentos de Segurança da Informação (IBSEC)
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## Projetos em Destaque (Java / Spring Boot)
 
-**Linguagens**  
-- Python 🐍  
-- Java ☕  
-- HTML, CSS, JavaScript (básico)  
+### 🔐 auth-service
+Serviço backend de autenticação e autorização desenvolvido com **Spring Boot 3** e **Spring Security**.
 
-**Frameworks e Bibliotecas**  
-- Flask  
-- (FastAPI — em aprendizado)  
+**Principais implementações:**
+- Cadastro e autenticação de usuários
+- Geração e validação de JWT
+- Controle de acesso baseado em roles
+- Estrutura preparada para microsserviços
+- Separação de camadas (controller / service / repository)
 
-**Ferramentas**  
-- Git & GitHub  
-- VS Code  
-- Postman  
-- SQLite  
-- (Docker — em aprendizado)  
+**Tecnologias:**  
+Java • Spring Boot • Spring Security • JWT • Maven  
 
-**Cibersegurança**  
-- TCP/IP  
-- Análise de vulnerabilidades  
-- LGPD & ISO 27001  
+👉 https://github.com/joseulisses-spring-projects/auth-service
 
 ---
 
-## 📈 Atualmente estudando
-- **FastAPI** para desenvolvimento de APIs modernas  
-- **Docker** para containerização  
-- **Clean Architecture** para código escalável e organizado  
+### 📦 joseulisses-spring-projects
+Organização dedicada a projetos **Java + Spring**, utilizada como portfólio técnico backend.
+
+👉 https://github.com/joseulisses-spring-projects
 
 ---
 
-## 📬 Contato
-📧 E-mail: **joseulises59@gmail.com**  
-💼 [LinkedIn](https://www.linkedin.com/in/seu-linkedin)  
+## Outros Projetos (Base Técnica)
+
+### ProjetoVoluntariado
+Projeto acadêmico completo envolvendo **levantamento de requisitos**, **documentação**, **segurança da informação** e implementação de funcionalidades web.
+
+- Estrutura de projeto de software
+- Visão de backend e frontend
+- Aplicação de conceitos de segurança
+
+👉 https://github.com/Jesseh78/ProjetoVoluntariado
+
+---
+
+### ProjetoSoftware
+Repositório focado em **fundamentos de Java**, **POO**, **estruturação de classes** e lógica aplicada.
+
+👉 https://github.com/Jesseh78/ProjetoSoftware
+
+---
+
+### Organizador_cli
+Ferramenta CLI para organização automática de arquivos por extensão.
+
+- Manipulação de arquivos
+- Lógica de automação
+- Interface de linha de comando
+
+👉 https://github.com/Jesseh78/Organizador_cli
+
+---
+
+### ProjetoWebSiteBasico
+Projeto introdutório de frontend para compreensão de **estrutura web**, **HTML**, **CSS** e **JavaScript**.
+
+👉 https://github.com/Jesseh78/ProjetoWebSiteBasico
+
+---
+
+## Objetivo Técnico
+
+Atuar como **Desenvolvedor Java Júnior**, trabalhando com:
+- APIs REST
+- Spring Boot
+- Autenticação e segurança
+- Código limpo e organizado
+- Aprendizado contínuo em ambiente profissional
+
+---
+
+## Contato
+
+- GitHub: https://github.com/Jesseh78  
+- LinkedIn: https://www.linkedin.com/in/joseulissesdev  
+- Email: joseulises59@gmail.com

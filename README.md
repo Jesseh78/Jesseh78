@@ -1,6 +1,19 @@
-# José Ulisses — Java Backend Developer (Junior)
+# José Ulisses — Desenvolvedor Backend Java (Júnior)
 
-Java backend developer em formação, com foco em **Spring Boot**, **APIs REST**, **autenticação/autorização**, **segurança**, **organização de código** e **boas práticas de engenharia de software**.
+Desenvolvedor backend em formação com foco em **Java**, **Spring Boot**, **APIs REST** e **segurança**.  
+Atuação prática em projetos backend, autenticação, organização de código e planejamento de sistemas, com preocupação constante em **entregar soluções estruturadas, seguras e sustentáveis**.
+
+---
+
+## Como eu trabalho
+
+Costumo abordar problemas de forma **estruturada**, priorizando:
+- entendimento claro do escopo antes da implementação
+- divisão de problemas complexos em partes menores
+- análise de riscos e impactos
+- organização e documentação do que foi construído
+
+Isso me permite lidar melhor com tarefas complexas, manter previsibilidade e facilitar a manutenção e evolução dos sistemas.
 
 ---
 
@@ -11,12 +24,13 @@ Java backend developer em formação, com foco em **Spring Boot**, **APIs REST**
 - Spring Boot 3
 - Spring Security
 - JWT (Authentication / Authorization)
-- REST APIs
+- APIs REST
 - Maven
 
 **Banco de Dados**
-- H2 (dev/test)
-- PostgreSQL (conceitos e integração)
+- SQL
+- PostgreSQL
+- H2 (ambiente de desenvolvimento)
 
 **Ferramentas**
 - Git / GitHub
@@ -25,84 +39,102 @@ Java backend developer em formação, com foco em **Spring Boot**, **APIs REST**
 - Linux (ambiente de desenvolvimento)
 
 **Outros**
-- Python (scripts, CLI)
+- Python (scripts e CLI)
 - HTML / CSS / JavaScript (fundamentos)
-- Fundamentos de Segurança da Informação (IBSEC)
+- Fundamentos de Segurança da Informação
 
 ---
 
-## Projetos em Destaque (Java / Spring Boot)
+## Projetos em Destaque (Java / Backend)
 
 ### 🔐 auth-service
-Serviço backend de autenticação e autorização desenvolvido com **Spring Boot 3** e **Spring Security**.
+Serviço de autenticação e autorização desenvolvido com **Spring Boot 3** e **Spring Security**.
 
-**Principais implementações:**
+**Escopo técnico:**
 - Cadastro e autenticação de usuários
-- Geração e validação de JWT
+- Geração e validação de tokens JWT
 - Controle de acesso baseado em roles
-- Estrutura preparada para microsserviços
-- Separação de camadas (controller / service / repository)
-
-**Tecnologias:**  
-Java • Spring Boot • Spring Security • JWT • Maven  
+- Integração com banco de dados relacional
+- Organização em camadas (controller / service / repository)
+- Estrutura preparada para uso em arquitetura de microsserviços
 
 👉 https://github.com/joseulisses-spring-projects/auth-service
 
 ---
 
 ### 📦 joseulisses-spring-projects
-Organização dedicada a projetos **Java + Spring**, utilizada como portfólio técnico backend.
+Organização dedicada a projetos **Java + Spring**, utilizada como portfólio backend.
+
+- APIs REST
+- Segurança e autenticação
+- Organização de código
+- Boas práticas de desenvolvimento
 
 👉 https://github.com/joseulisses-spring-projects
 
 ---
 
-## Outros Projetos (Base Técnica)
+## Projetos com Visão de Sistema
 
-### ProjetoVoluntariado
-Projeto acadêmico completo envolvendo **levantamento de requisitos**, **documentação**, **segurança da informação** e implementação de funcionalidades web.
+### Administração de Sistemas — Lembrete de Receitas Médicas
+Projeto focado no **planejamento e gestão completa de um sistema de software**, utilizando como estudo de caso um aplicativo mobile de saúde.
 
-- Estrutura de projeto de software
-- Visão de backend e frontend
-- Aplicação de conceitos de segurança
+**O que foi trabalhado:**
+- Análise de requisitos funcionais e não funcionais
+- Estruturação de escopo e módulos
+- Gestão de riscos
+- Planejamento de infraestrutura
+- Segurança da informação e conformidade com LGPD
+- Cronograma, custos e documentação técnica
+
+O projeto foi estruturado para refletir **viabilidade real**, cobrindo todo o ciclo de vida do sistema, do planejamento à entrega.
+
+👉 Repositório: https://github.com/Jesseh78/AdmDeSistemas  
+👉 Documentação final (PDF):  
+https://github.com/Jesseh78/AdmDeSistemas/blob/main/EntregaFinal/DocumentacaoFinalLembreteReceitas.pdf
+
+---
+
+### Projeto Voluntariado
+Projeto acadêmico envolvendo **levantamento de requisitos**, **regras de negócio**, **documentação técnica** e visão geral de uma solução web, com foco em organização e segurança da informação.
 
 👉 https://github.com/Jesseh78/ProjetoVoluntariado
 
 ---
 
-### ProjetoSoftware
-Repositório focado em **fundamentos de Java**, **POO**, **estruturação de classes** e lógica aplicada.
+### Projeto Software
+Repositório focado em **fundamentos de Java**, **Programação Orientada a Objetos** e estruturação de classes.
 
 👉 https://github.com/Jesseh78/ProjetoSoftware
 
 ---
 
-### Organizador_cli
-Ferramenta CLI para organização automática de arquivos por extensão.
-
-- Manipulação de arquivos
-- Lógica de automação
-- Interface de linha de comando
+### Organizador CLI
+Ferramenta de linha de comando para organização automática de arquivos por extensão.
 
 👉 https://github.com/Jesseh78/Organizador_cli
 
 ---
 
-### ProjetoWebSiteBasico
-Projeto introdutório de frontend para compreensão de **estrutura web**, **HTML**, **CSS** e **JavaScript**.
+## Formação
 
-👉 https://github.com/Jesseh78/ProjetoWebSiteBasico
+**Análise e Desenvolvimento de Sistemas**  
+Universidade de Mogi das Cruzes (UMC) — Cursando
 
 ---
 
-## Objetivo Técnico
+## Certificações
 
-Atuar como **Desenvolvedor Java Júnior**, trabalhando com:
-- APIs REST
-- Spring Boot
-- Autenticação e segurança
-- Código limpo e organizado
-- Aprendizado contínuo em ambiente profissional
+- **Fundamentos de Cibersegurança — IBSEC**  
+  (ênfase em segurança da informação, riscos e boas práticas)
+
+👉 Certificado: [link para certificado]
+
+---
+
+## Objetivo
+
+Atuar como **Desenvolvedor Java Backend Júnior**, contribuindo no desenvolvimento e manutenção de APIs REST, sistemas backend seguros e soluções baseadas em Spring Boot, com responsabilidade técnica e foco em qualidade de entrega.
 
 ---
 

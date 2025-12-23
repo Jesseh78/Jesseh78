@@ -128,7 +128,7 @@ Universidade de Mogi das Cruzes (UMC) — Cursando
 - **Fundamentos de Cibersegurança — IBSEC**  
   (ênfase em segurança da informação, riscos e boas práticas)
 
-👉 Certificado: [link para certificado]
+👉 Certificado: https://certs.ibsec.com.br?cert_hash=2114c62c44868a24
 
 ---
 

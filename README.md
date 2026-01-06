@@ -76,6 +76,13 @@ Organização dedicada a projetos **Java + Spring**, utilizada como portfólio b
 
 ## Projetos com Visão de Sistema
 
+### Organizador CLI
+Ferramenta de linha de comando para organização automática de arquivos por extensão.
+
+👉 https://github.com/Jesseh78/Organizador_cli
+
+---
+
 ### Administração de Sistemas — Lembrete de Receitas Médicas
 Projeto focado no **planejamento e gestão completa de um sistema de software**, utilizando como estudo de caso um aplicativo mobile de saúde.
 
@@ -92,27 +99,6 @@ O projeto foi estruturado para refletir **viabilidade real**, cobrindo todo o ci
 👉 Repositório: https://github.com/Jesseh78/AdmDeSistemas  
 👉 Documentação final (PDF):  
 https://github.com/Jesseh78/AdmDeSistemas/blob/main/EntregaFinal/DocumentacaoFinalLembreteReceitas.pdf
-
----
-
-### Projeto Voluntariado
-Projeto acadêmico envolvendo **levantamento de requisitos**, **regras de negócio**, **documentação técnica** e visão geral de uma solução web, com foco em organização e segurança da informação.
-
-👉 https://github.com/Jesseh78/ProjetoVoluntariado
-
----
-
-### Projeto Software
-Repositório focado em **fundamentos de Java**, **Programação Orientada a Objetos** e estruturação de classes.
-
-👉 https://github.com/Jesseh78/ProjetoSoftware
-
----
-
-### Organizador CLI
-Ferramenta de linha de comando para organização automática de arquivos por extensão.
-
-👉 https://github.com/Jesseh78/Organizador_cli
 
 ---
 

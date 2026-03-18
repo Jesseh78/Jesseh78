@@ -1,131 +1,87 @@
-# José Ulisses — Desenvolvedor Backend Java (Júnior)
+# José Ulisses
 
-Desenvolvedor backend em formação com foco em **Java**, **Spring Boot**, **APIs REST** e **segurança**.  
-Atuação prática em projetos backend, autenticação, organização de código e planejamento de sistemas, com preocupação constante em **entregar soluções estruturadas, seguras e sustentáveis**.
-
----
-
-## Como eu trabalho
-
-Costumo abordar problemas de forma **estruturada**, priorizando:
-- entendimento claro do escopo antes da implementação
-- divisão de problemas complexos em partes menores
-- análise de riscos e impactos
-- organização e documentação do que foi construído
-
-Isso me permite lidar melhor com tarefas complexas, manter previsibilidade e facilitar a manutenção e evolução dos sistemas.
+Desenvolvedor Backend em formação  
+Focado em Python, Java e automação  
+Construindo projetos práticos e orientados a solução  
 
 ---
 
-## Stack Principal
+## Sobre mim
 
-**Backend**
-- Java 17+
-- Spring Boot 3
-- Spring Security
-- JWT (Authentication / Authorization)
+Sou estudante de Análise e Desenvolvimento de Sistemas com foco em desenvolvimento backend e automação de processos.
+
+Tenho experiência prática com:
+- Desenvolvimento de APIs com Spring Boot e FastAPI
+- Scripts de automação com Python
+- Integração entre sistemas
+- Manipulação e tratamento de dados
+- Organização de código e boas práticas
+
+Atualmente, estou focado em evoluir como desenvolvedor backend e construir projetos consistentes para o mercado.
+
+---
+
+## Tecnologias e Ferramentas
+
+Linguagens:
+- Python
+- Java
+
+Backend:
+- Spring Boot
+- FastAPI
 - APIs REST
-- Maven
 
-**Banco de Dados**
-- SQL
+Banco de Dados:
+- MySQL
 - PostgreSQL
-- H2 (ambiente de desenvolvimento)
 
-**Ferramentas**
-- Git / GitHub
-- Postman
-- Docker (conceitos)
-- Linux (ambiente de desenvolvimento)
+Frontend:
+- React (consumo de APIs)
 
-**Outros**
-- Python (scripts e CLI)
-- HTML / CSS / JavaScript (fundamentos)
-- Fundamentos de Segurança da Informação
+Ferramentas:
+- Git e GitHub
+- Docker
+- Linux
 
 ---
 
-## Projetos em Destaque (Java / Backend)
+## Projetos em destaque
+Portfólio Full Stack (React + Java)  
+Projeto em desenvolvimento para apresentação profissional  
+https://github.com/joseulisses-spring-projects/portifolio-site
 
-### 🔐 auth-service
-Serviço de autenticação e autorização desenvolvido com **Spring Boot 3** e **Spring Security**.
+Auth Service (Java | Spring Boot)  
+API de autenticação com foco em segurança, validação e arquitetura  
+https://github.com/joseulisses-spring-projects/auth-service
 
-**Escopo técnico:**
-- Cadastro e autenticação de usuários
-- Geração e validação de tokens JWT
-- Controle de acesso baseado em roles
-- Integração com banco de dados relacional
-- Organização em camadas (controller / service / repository)
-- Estrutura preparada para uso em arquitetura de microsserviços
+PortScan Python  
+Ferramenta de varredura de portas com exportação de resultados  
+https://github.com/Jesseh78/PortScan_Python
 
-👉 https://github.com/joseulisses-spring-projects/auth-service
+Pipeline ETL (Python)  
+Automação de processamento e transformação de dados  
+https://github.com/Jesseh78/intuitivecare_test
 
----
-
-### 📦 joseulisses-spring-projects
-Organização dedicada a projetos **Java + Spring**, utilizada como portfólio backend.
-
-- APIs REST
-- Segurança e autenticação
-- Organização de código
-- Boas práticas de desenvolvimento
-
-👉 https://github.com/joseulisses-spring-projects
 
 ---
 
-## Projetos com Visão de Sistema
+## Foco atual
 
-### Organizador CLI
-Ferramenta de linha de comando para organização automática de arquivos por extensão.
-
-👉 https://github.com/Jesseh78/Organizador_cli
-
----
-
-### Administração de Sistemas — Lembrete de Receitas Médicas
-Projeto focado no **planejamento e gestão completa de um sistema de software**, utilizando como estudo de caso um aplicativo mobile de saúde.
-
-**O que foi trabalhado:**
-- Análise de requisitos funcionais e não funcionais
-- Estruturação de escopo e módulos
-- Gestão de riscos
-- Planejamento de infraestrutura
-- Segurança da informação e conformidade com LGPD
-- Cronograma, custos e documentação técnica
-
-O projeto foi estruturado para refletir **viabilidade real**, cobrindo todo o ciclo de vida do sistema, do planejamento à entrega.
-
-👉 Repositório: https://github.com/Jesseh78/AdmDeSistemas  
-👉 Documentação final (PDF):  
-https://github.com/Jesseh78/AdmDeSistemas/blob/main/EntregaFinal/DocumentacaoFinalLembreteReceitas.pdf
-
----
-
-## Formação
-
-**Análise e Desenvolvimento de Sistemas**  
-Universidade de Mogi das Cruzes (UMC) — Cursando
-
----
-
-## Certificações
-
-- **Fundamentos de Cibersegurança — IBSEC**  
-  (ênfase em segurança da informação, riscos e boas práticas)
-
-👉 Certificado: https://certs.ibsec.com.br?cert_hash=2114c62c44868a24
-
----
-
-## Objetivo
-
-Atuar como **Desenvolvedor Java Backend Júnior**, contribuindo no desenvolvimento e manutenção de APIs REST, sistemas backend seguros e soluções baseadas em Spring Boot, com responsabilidade técnica e foco em qualidade de entrega.
+- Desenvolvimento Backend com Java e Spring Boot
+- Automação com Python
+- Estruturação de projetos profissionais
+- Preparação para a primeira oportunidade como desenvolvedor
 
 ---
 
 ## Contato
 
-- GitHub: https://github.com/Jesseh78  
-- LinkedIn: https://www.linkedin.com/in/joseulissesdev  
-- Email: joseulises59@gmail.com
+Email: joseulises59@gmail.com  
+LinkedIn: https://linkedin.com/in/joseulissesdev  
+
+---
+
+## Objetivo
+
+Conseguir minha primeira oportunidade como desenvolvedor e evoluir construindo soluções reais, escaláveis e bem estruturadas.
